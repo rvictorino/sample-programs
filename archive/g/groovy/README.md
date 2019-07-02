@@ -9,6 +9,7 @@ Welcome to Sample Programs in Groovy!
 - [Even Odd in Groovy](https://github.com/TheRenegadeCoder/sample-programs/issues/1106)
 - [Reverse A String in Groovy](https://github.com/TheRenegadeCoder/sample-programs/issues/1108)
 - [Capitalize in Groovy](https://github.com/TheRenegadeCoder/sample-programs/issues/1110)
+- [Bubble Sort in Groovy](https://github.com/TheRenegadeCoder/sample-programs/issues/1112)
 
 ## Fun Facts
 
